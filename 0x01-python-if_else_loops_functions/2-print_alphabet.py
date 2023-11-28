@@ -1,0 +1,2 @@
+alphabet = 'abcdefghijklmnopqrstuvqxyz'
+print(alphabet)
