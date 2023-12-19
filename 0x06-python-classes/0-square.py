@@ -3,4 +3,5 @@
 defines a class square
 """
 class Square:
+    """Represents a square. No body."""
     pass
