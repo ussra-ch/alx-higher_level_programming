@@ -10,6 +10,7 @@ def add_integer(a, b=98):
     Args:
         a (int, flaot): The first integer.
         b (int, flaot): The second integer. Defaults to 98.
+
     Returns:
         int: The sum of the two integers.
 
